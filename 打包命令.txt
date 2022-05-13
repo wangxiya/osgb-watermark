@@ -1,0 +1,2 @@
+pyinstaller -F  -w watermark.spec
+logo 路径在spec文件里面修改，只能为绝对路径
